@@ -1,0 +1,14 @@
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\CPImport.exe.config
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\CPImport.exe
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\CPImport.pdb
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.Form1.resources
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.Properties.Resources.resources
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.csproj.GenerateResource.cache
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.csproj.CoreCompileInputs.cache
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.exe
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.pdb
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\MySql.Data.dll
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\MySql.Data.xml
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.csproj.CopyComplete
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\bin\Debug\MaterialSkin.dll
+D:\00.WORK\01.SVILUPPO\CSS\Sviluppo\CPImport\CPImport\obj\Debug\CPImport.csprojResolveAssemblyReference.cache

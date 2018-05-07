@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CPImport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=168.100.100.5;Database=csfil;Uid=csfil;Pwd=S1.fa</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

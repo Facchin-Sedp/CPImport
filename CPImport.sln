@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPImport", "CPImport\CPImport.csproj", "{FBBB7A17-CAE2-454E-8F83-B84012432ADD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCImport", "SetupCImport\SetupCImport.vdproj", "{36EBA4F3-B8BC-47E0-9692-639D0247D4D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBB7A17-CAE2-454E-8F83-B84012432ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBB7A17-CAE2-454E-8F83-B84012432ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBB7A17-CAE2-454E-8F83-B84012432ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBB7A17-CAE2-454E-8F83-B84012432ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EBA4F3-B8BC-47E0-9692-639D0247D4D1}.Debug|Any CPU.ActiveCfg = Debug
+		{36EBA4F3-B8BC-47E0-9692-639D0247D4D1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3EC654-2432-45AD-A0A4-4B7B66122AEE}
+	EndGlobalSection
+EndGlobal
